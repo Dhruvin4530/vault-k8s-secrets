@@ -1,0 +1,5 @@
+imageName: nginx:latest
+imagePullPolicy: IfNotPresent
+serviceAccountName: csi-sa
+deploymentName: myapp
+portfoliWebAppName: myapp
